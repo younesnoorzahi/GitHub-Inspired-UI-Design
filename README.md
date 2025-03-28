@@ -3,7 +3,6 @@
 
 <h2>Key Design Elements</h2>
 <p>This GitHub-inspired UI includes:</p>
-<br>
 <span>1. Navigation Bar</span>
 <li>GitHub logo and branding</li>
 <li>Global search with keyboard shortcut (⌘K)</li>
